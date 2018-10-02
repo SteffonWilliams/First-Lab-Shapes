@@ -19,4 +19,8 @@ Be sure to
 Object of lab is to follow the chapter reading the doc folder. (and Draw a House!)
 
 Can you draw a house with a tree along side? (think `trunk` and `circle` or a tall, skunny `triangle`.
-# FirstLab-Shapes
+
+After you create a house, press command + shift + 3 to create a screenshot of your whole desktop OR to draw out a section of the screen(edited),
+command + shift + 4 will allow you to select which area to take the screenshot
+
+### Then paste your picture to the Homework slack channel
